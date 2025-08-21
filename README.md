@@ -35,8 +35,8 @@ PyQt5 – User interface
 
 Clone this repository:
 
-git clone https://github.com/your-username/color-detection-system.git
-cd color-detection-system
+git clone https://github.com/nehilj67/Color_Detection_System.git
+cd Color_Detection_System
 
 
 Install dependencies:
